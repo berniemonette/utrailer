@@ -30,7 +30,7 @@ What I enjoyed was watching the student testers as they came to realize their fe
 
 Overall the day was a huge success. We were able to observe and understand how users were able to use or not use complicated features developed by the Web development students. The students were confronted with these problems and now, like real developers, had to come up with solutions to the problems brought forward by the users. Moreover, we were able to run seven teams and 22 tests within a four hour period without compromising the testing protocols and giving the users a safe environment to perform the tests.
 
-The impact on our curriculum is quite huge. For the first time we have the physical resources to incorporate usability testing into what we teach. We no longer have to work in vacated offices, classrooms, or other temporary places. We can minimize the impact the environment has on these tests and begin to develop testing protocols that are stronger as a result. We can also look towards incorporating usability testing in a wide variety of programs across the College.
+The impact on our curriculum is huge. For the first time we have the physical resources to incorporate usability testing into what we teach. We no longer have to work in vacated offices, classrooms, or other temporary places. We can minimize the impact the environment has on these tests and begin to develop testing protocols that are stronger as a result. We can also look towards incorporating usability testing in a wide variety of programs across the College.
 
 The first usability test in a trailer in the world (well Humber at least) was fun and instructive. Isn't that what education is all about?
 
