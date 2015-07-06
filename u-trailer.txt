@@ -1,0 +1,36 @@
+The very first usability test - ever.
+
+Well - not ever - just in a usability testing lab built into a trailer. On June 15 2015 the students in Humber College's Web Development program conducted a series of usability tests in our new usability trailer. Possibly the first time ever in the world was a trailer used for usability testing - certainly the first time at Humber. A rare event anyway you look at it.
+
+What is a usability trailer you might ask? It is a standard 53 foot trailer that has five observation rooms built in. These observation rooms have monitors, keyboards, and cameras that are hooked up to the servers at the front of the trailer. Across from each of the observation rooms is a television monitor where testers can observe the test subject's mouse movements. We use Morae software to record the test, note events in a log file, and can send a survey at the end of the test.
+
+You also might ask about how all this fits into a standard trailer? The trailer's wall expand to about triple the size of the trailer and it fits about 30 people.
+
+How did we use it?
+
+Students have been working in teams all this year to re-design a northern Ontairo hospital Web site. Now that the Web site is finished it is time to test it! The student team chose a feature to test and developed a test plan to give test subjects the instructions needed to a test subject. Successful use of the feature would mean that the feature, and the student, met the project requirements. We had seven teams and each team tested three subjects and one team tested four subjects. Seven teams, 22 subjects, in one testing session. Frankly I had no idea how it would work.
+
+Usability tests are usually quiet affairs as the subjects need to use the thing without outside interference. People coming and going, chatter, people dropping stuff, are all avoided. We had twenty or so people as observers with four observation rooms running at the same time. It sounds like chaos but it worked out rather well.
+
+First of all the observation rooms worked well to seclude the subjects and allow them to do the test without outside interference. The sound proofing was adequate to allow them to work and to allow the observers to view their efforts easily. There was some movement amongst the subjects as they finished tests and entered and exited the trailer. Overall, the students were able to manage this part of the interaction so that the impact was minimal. 
+
+Impact on the students.
+
+The Web Development program at Humber College is devoted to learning by doing. Students are put into the role of a Web developer from the start and continue to work in that manner for the course of the program: ten months of classes, two months of a field placement. Having a means to actually plan, run, and report on a series of usability tests is exactly what we do. In planning the test it became apparent that students did not fully appreciate what usability tests are. They were used to quality assurance tests and user acceptance testing. In fact I was told that a usability test was a form of "make work" as they had already developed a test plan. This gave me an great opportunity to find a gap in their knowledge and then explain the difference between what they knew and what they needed to know. The students were still somewhat skeptical - a test is a test after all.
+
+On the test day the students convened in the trailer. This was the first time it was used for the purpose so we had to set up the work stations, starting Morae recorder on the test stations and Morae manager on the observation computers. Inputting the survey questions and having all the testers in place and ready to accept the subjects. Speaking with the students at this point it was clear to me that they thought very highly of their features and believed that the test was a mere formality.
+
+We began to escort the subjects into the trailer and get them situated in the observation rooms. Consent was obtained by the students from the subjects and the instructions were provided. The door was closed, Morae fired up, and the students watched as the subjects tried to use their feature. I should point out that the subjects were fellow students in the program. They were therefore peers and as knowledgeable about what was being tested as the testers themselves. At no point could the testers say that ignorance or inability was the reason for a failed or less than optimal test result.
+
+The results were not what they expected.
+
+Turns out the submit button on a form does not work in Internet Explorer. A quality assurance problem in fact - but discovered by a user. The subjects were observed in one instance to circle the required link - they were expecting a button. Subjects failed to make certain a Youtube video file had been uploaded and could be properly viewed. Another team discovered that periods are a genuine part of email addresses. One subject somehow got out of the Paypal sandbox and was about to make a $1 000.00 contribution to the team!
+
+What I enjoyed was watching the student testers as they came to realize their features were not working as expected. You could see them egging the subjects on, figuratively speaking, to do what they were instructed and not what they thought they should do. Then the embarrassed and confused silence as they were trying to make sense of someone else using a feature they knew so well. What made this possible was that the subjects were safely ensconced in the observation room and could perform the test without interference from the changrined team.
+
+Overall the day was a huge success. We were able to observe and understand how users were able to use or not use complicated features developed by the Web development students. The students were confronted with these problems and now, like real developers, had to come up with solutions to the problems brought forward by the users. Moreover, we were able to run seven teams and 22 tests within a four hour period without compromising the testing protocols and giving the users a safe environment to perform the tests.
+
+The impact on our curriculum is quite huge. For the first time we have the physical resources to incorporate usability testing into what we teach. We no longer have to work in vacated offices, classrooms, or other temporary places. We can minimize the impact the environment has on these tests and begin to develop testing protocols that are stronger as a result. We can also look towards incorporating usability testing in a wide variety of programs across the College.
+
+The first usability test in a trailer in the world (well Humber at least) was fun and instructive. Isn't that what education is all about?
+
