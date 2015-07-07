@@ -8,7 +8,7 @@ You also might ask about how all this fits into a standard trailer? The trailer'
 
 How did we use it?
 
-Students have been working in teams all this year to re-design a northern Ontairo hospital Web site. Now that the Web site is finished it is time to test it! The student team chose a feature to test and developed a test plan to give test subjects the instructions needed to a test subject. Successful use of the feature would mean that the feature, and the student, met the project requirements. We had seven teams and each team tested three subjects and one team tested four subjects. Seven teams, 22 subjects, in one testing session. Frankly I had no idea how it would work.
+Students have been working in teams all this year to re-design a northern Ontario hospital Web site. Now that the Web site is finished it is time to test it! The student team chose a feature to test and developed a test plan to give test subjects the instructions needed to a test subject. Successful use of the feature would mean that the feature, and the student, met the project requirements. We had seven teams and each team tested three subjects and one team tested four subjects. Seven teams, 22 subjects, in one testing session. Frankly I had no idea how it would work.
 
 Usability tests are usually quiet affairs as the subjects need to use the thing without outside interference. People coming and going, chatter, people dropping stuff, are all avoided. We had twenty or so people as observers with four observation rooms running at the same time. It sounds like chaos but it worked out rather well.
 
